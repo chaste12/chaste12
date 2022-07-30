@@ -4,7 +4,7 @@ Hi 👋 My name is Chaste Gikundiro
 Web and Mobile Developer
 ------------------------
 
-* 🌍  I'm based in Kigali, Rwanda
+* 🌍  I'm based in Ottawa, ON, Canada.
 * 🖥️  See my portfolio at [chaaste.xyz](http://chaaste.xyz)
 * ✉️  You can contact me at [gikundirochaste@gmail.com](mailto:gikundirochaste@gmail.com)
 
