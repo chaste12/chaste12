@@ -1,7 +1,7 @@
 Hi 👋 My name is Chaste Gikundiro
 =================================
 
-Web and Mobile Developer
+Software Developer
 ------------------------
 
 * 🌍  I'm based in Montreal, QC, Canada🇨🇦.
