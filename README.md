@@ -1,11 +1,10 @@
 Hi 👋 My name is Chaste Gikundiro
 =================================
 
-Software Developer
+Software Developer - Writer - Future composer
 ------------------------
 
-* 🌍  I'm based in Montreal, QC, Canada🇨🇦.
-* 🖥️  See my portfolio at [chaaste.xyz](http://chaaste.xyz)
+* 🌍  I'm based in Ottawa, Ontario, Canada🇨🇦.
 * ✉️  You can contact me at [gikundirochaste@gmail.com](mailto:gikundirochaste@gmail.com)
 
 ### Skills
